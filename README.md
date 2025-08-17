@@ -1,1 +1,1 @@
-# minor-project
+just a readme file
